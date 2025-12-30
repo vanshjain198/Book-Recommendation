@@ -16,7 +16,7 @@ Understand similarity-based recommendation logic
 
 Deploy the trained model for real-time predictions
 
-🧠 Approach Used
+**🧠 Approach Used**
 
 The system is built using Collaborative Filtering, which works on the assumption that:
 
@@ -34,27 +34,27 @@ Recommendation based on nearest neighbors
 
 📂 Dataset
 
-The project uses publicly available book datasets containing:
-
+**The project uses publicly available book datasets containing:
+**
   *Books: ISBN, title, author, publisher
 
   *Users: User IDs and demographics
 
   *Ratings: Explicit user ratings for books
 
-Preprocessing steps include:
-
+**Preprocessing steps include:
+**
   *Removing sparse users and books
   
   *Merging datasets
 
    *Handling missing and noisy data
 
-🛠️ Tools & Technologies
+**🛠️ Tools & Technologies**
 
-Programming Language: Python
+**Programming Language:** Python
 
-Libraries:
+**Libraries:**
 
    *Pandas
 
@@ -62,14 +62,14 @@ Libraries:
 
    *Scikit-learn
 
-Model Handling: Pickle
+**Model Handling:** Pickle
 
-IDE / Environment: Jupyter Notebook / PyCharm
+**IDE / Environment:** Jupyter Notebook / PyCharm
 
-Web Framework: Streamlit / Flask
+**Web Framework:** Streamlit / Flask
 
 
-🔄 Project Workflow
+**🔄 Project Workflow**
 
    *Data Loading and Inspection
 
@@ -89,7 +89,7 @@ Web Framework: Streamlit / Flask
 
 
 
-🚀 Features
+**🚀 Features**
 
    *Personalized book recommendations
 
@@ -99,7 +99,7 @@ Web Framework: Streamlit / Flask
 
    *Simple and interactive UI
 
-📊 Results
+**📊 Results**
 
    Successfully generates relevant book recommendations
 
@@ -107,7 +107,7 @@ Web Framework: Streamlit / Flask
 
    Scalable foundation for real-world recommender systems
 
-📌 Use Cases
+**📌 Use Cases**
 
    Online book stores
 
