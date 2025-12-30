@@ -36,17 +36,17 @@ Recommendation based on nearest neighbors
 
 The project uses publicly available book datasets containing:
 
-Books: ISBN, title, author, publisher
+  *Books: ISBN, title, author, publisher
 
-Users: User IDs and demographics
+  *Users: User IDs and demographics
 
-Ratings: Explicit user ratings for books
+  *Ratings: Explicit user ratings for books
 
 Preprocessing steps include:
 
-Removing sparse users and books
+  *Removing sparse users and books
 
-Merging datasets
+    *Merging datasets
 
 Handling missing and noisy data
 
