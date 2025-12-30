@@ -42,8 +42,8 @@ Recommendation based on nearest neighbors
 
   *Ratings: Explicit user ratings for books
 
-**Preprocessing steps include:
-**
+**Preprocessing steps include:**
+
   *Removing sparse users and books
   
   *Merging datasets
