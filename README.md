@@ -1,4 +1,6 @@
 📚 Book Recommendation System using Collaborative Filtering
+
+
 📌 Overview
 
 This project is a machine learning–based book recommendation system that suggests relevant books to users based on their past ratings and interaction patterns. It uses Collaborative Filtering, a widely used technique in recommender systems, to generate personalized recommendations by identifying similarities between users or books.
@@ -16,6 +18,8 @@ Understand similarity-based recommendation logic
 
 Deploy the trained model for real-time predictions
 
+
+
 **🧠 Approach Used**
 
 The system is built using Collaborative Filtering, which works on the assumption that:
@@ -31,6 +35,8 @@ Filtering active users and popular books
 Cosine similarity to measure similarity between items/users
 
 Recommendation based on nearest neighbors
+
+
 
 📂 Dataset
 
@@ -69,6 +75,7 @@ Recommendation based on nearest neighbors
 **Web Framework:** Streamlit / Flask
 
 
+
 **🔄 Project Workflow**
 
    *Data Loading and Inspection
@@ -99,6 +106,8 @@ Recommendation based on nearest neighbors
 
    *Simple and interactive UI
 
+
+
 **📊 Results**
 
    Successfully generates relevant book recommendations
@@ -106,6 +115,8 @@ Recommendation based on nearest neighbors
    Demonstrates effective use of collaborative filtering
 
    Scalable foundation for real-world recommender systems
+
+
 
 **📌 Use Cases**
 
