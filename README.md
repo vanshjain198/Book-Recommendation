@@ -22,7 +22,7 @@ The system is built using Collaborative Filtering, which works on the assumption
 
 Users who agreed in the past will agree in the future.
 
-Techniques applied:
+**Techniques applied:**
 
 User–Item interaction matrix
 
