@@ -103,4 +103,5 @@ The project uses publicly available book datasets containing:
 
 ---
 
-⭐ **If you find this project useful, consider giving it a star!**
+
+
