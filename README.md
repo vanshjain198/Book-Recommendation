@@ -6,7 +6,7 @@ This project is a machine learning–based book recommendation system that sugge
 The project demonstrates an end-to-end ML workflow, including data preprocessing, exploratory data analysis, model building, and deployment using a simple web interface.
 
 
-🎯 Objectives
+**🎯 Objectives**
 
 Build a personalized book recommender system
 
