@@ -45,10 +45,10 @@ The project uses publicly available book datasets containing:
 Preprocessing steps include:
 
   *Removing sparse users and books
+  
+  *Merging datasets
 
-    *Merging datasets
-
-Handling missing and noisy data
+   *Handling missing and noisy data
 
 🛠️ Tools & Technologies
 
@@ -56,11 +56,11 @@ Programming Language: Python
 
 Libraries:
 
-Pandas
+   *Pandas
 
-NumPy
+   *NumPy
 
-Scikit-learn
+   *Scikit-learn
 
 Model Handling: Pickle
 
@@ -68,52 +68,51 @@ IDE / Environment: Jupyter Notebook / PyCharm
 
 Web Framework: Streamlit / Flask
 
-Deployment: Heroku (optional)
 
 🔄 Project Workflow
 
-Data Loading and Inspection
+   *Data Loading and Inspection
 
-Data Cleaning and Preprocessing
+   *Data Cleaning and Preprocessing
 
-Exploratory Data Analysis (EDA)
+   *Exploratory Data Analysis (EDA)
 
-User–Item Matrix Construction
+   *User–Item Matrix Construction
 
-Similarity Computation (Cosine Similarity)
+   *Similarity Computation (Cosine Similarity)
 
-Recommendation Logic Implementation
+   *Recommendation Logic Implementation
 
-Model Serialization using Pickle
+   *Model Serialization using Pickle
 
-Web App Integration
+   *Web App Integration
 
-Deployment (Optional)
+
 
 🚀 Features
 
-Personalized book recommendations
+   *Personalized book recommendations
 
-Similarity-based suggestion engine
+   *Similarity-based suggestion engine
 
-Lightweight and fast predictions
+   *Lightweight and fast predictions
 
-Simple and interactive UI
+   *Simple and interactive UI
 
 📊 Results
 
-Successfully generates relevant book recommendations
+   Successfully generates relevant book recommendations
 
-Demonstrates effective use of collaborative filtering
+   Demonstrates effective use of collaborative filtering
 
-Scalable foundation for real-world recommender systems
+   Scalable foundation for real-world recommender systems
 
 📌 Use Cases
 
-Online book stores
+   Online book stores
 
-Content recommendation platforms
+   Content recommendation platforms
 
-Learning recommender system fundamentals
+   Learning recommender system fundamentals
 
-ML portfolio project for freshers
+   ML portfolio project for freshers
