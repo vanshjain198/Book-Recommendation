@@ -34,8 +34,8 @@ Recommendation based on nearest neighbors
 
 📂 Dataset
 
-**The project uses publicly available book datasets containing:
-**
+**The project uses publicly available book datasets containing:**
+
   *Books: ISBN, title, author, publisher
 
   *Users: User IDs and demographics
