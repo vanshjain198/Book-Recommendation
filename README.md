@@ -48,58 +48,74 @@ The project uses publicly available book datasets containing:
 
 ---
 
+## 🧾 Steps Used
+
+1. Collected and loaded book, user, and rating datasets  
+2. Performed data inspection and initial cleaning  
+3. Removed users with very few ratings to reduce sparsity  
+4. Filtered popular books with sufficient number of ratings  
+5. Merged datasets to create a unified dataframe  
+6. Constructed the user–item interaction matrix  
+7. Computed similarity scores using cosine similarity  
+8. Identified nearest neighbors based on similarity  
+9. Implemented recommendation logic to suggest top books  
+10. Serialized the trained model using Pickle  
+11. Integrated the model with a simple web application  
+
+---
+
 ## 🛠️ Tools & Technologies
 
-- **Programming Language**: Python
+- **Programming Language**: Python  
 
 ### Libraries
 
-- Pandas
-- NumPy
-- Scikit-learn
+- Pandas  
+- NumPy  
+- Scikit-learn  
 
-- **Model Handling**: Pickle
-- **IDE / Environment**: Jupyter Notebook, PyCharm
-- **Web Framework**: Streamlit / Flask
+- **Model Handling**: Pickle  
+- **IDE / Environment**: Jupyter Notebook, PyCharm  
+- **Web Framework**: Streamlit / Flask  
 
 ---
 
 ## 🔄 Project Workflow
 
-1. Data Loading and Inspection
-2. Data Cleaning and Preprocessing
-3. Exploratory Data Analysis (EDA)
-4. User–Item Matrix Construction
-5. Similarity Computation (Cosine Similarity)
-6. Recommendation Logic Implementation
-7. Model Serialization using Pickle
-8. Web App Integration
+1. Data Loading and Inspection  
+2. Data Cleaning and Preprocessing  
+3. Exploratory Data Analysis (EDA)  
+4. User–Item Matrix Construction  
+5. Similarity Computation (Cosine Similarity)  
+6. Recommendation Logic Implementation  
+7. Model Serialization using Pickle  
+8. Web App Integration  
 
 ---
 
 ## 🚀 Features
 
-- Personalized book recommendations
-- Similarity-based suggestion engine
-- Lightweight and fast predictions
-- Simple and interactive UI
+- Personalized book recommendations  
+- Similarity-based suggestion engine  
+- Lightweight and fast predictions  
+- Simple and interactive UI  
 
 ---
 
 ## 📊 Results
 
-- Successfully generates relevant book recommendations
-- Demonstrates effective use of collaborative filtering
-- Provides a scalable foundation for real-world recommender systems
+- Successfully generates relevant book recommendations  
+- Demonstrates effective use of collaborative filtering  
+- Provides a scalable foundation for real-world recommender systems  
 
 ---
 
 ## 📌 Use Cases
 
-- Online book stores
-- Content recommendation platforms
-- Learning recommender system fundamentals
-- ML portfolio project for freshers
+- Online book stores  
+- Content recommendation platforms  
+- Learning recommender system fundamentals  
+- ML portfolio project for freshers  
 
 ---
 
